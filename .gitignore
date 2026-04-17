@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos intermedios generados por el notebook
+credito_serie26_full.csv
+ipc_mensual.csv
+
+# Zips y temporales
+*.zip
+~$*
