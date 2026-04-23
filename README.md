@@ -1,6 +1,6 @@
 # Aporte al debate sobre mora crediticia y actividad sectorial en Argentina 2026
 
-¿El aumento de la mora responde a la caída de actividad por sector?
+Análisis económico y estadístico del problema de mora crediticia en Argentina en relación a la actividad sectorial. Nota periodística.
 
 Panel de 12 sectores, frecuencia trimestral (Q2 2021 – Q4 2025). Regresión con quiebre estructural entre períodos de baja y alta inclusión financiera. Datos de BCRA (préstamos por actividad) e INDEC (EMAE, PIB, CER).
 
